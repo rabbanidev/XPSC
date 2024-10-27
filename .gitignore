@@ -1,0 +1,6 @@
+# But not .cpp
+!*.cpp
+# Or directories
+!*/
+!.gitignore
+!README.md
