@@ -34,7 +34,6 @@ int main()
         problems++;
     }
 
-    cout << ans << el;
-
+    cout << ans << el; 
     return 0;
 }
