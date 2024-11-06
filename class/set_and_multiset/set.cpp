@@ -68,7 +68,14 @@ int main()
 
     // auto it = s.lower_bound(3);
     auto it = s.upper_bound(3);
-    cout << *it << el;
+    if (it != s.end())
+    {
+        cout << *it << el;
+    }
+    else
+    {
+        cout << "Element not found." << el;
+    }
 
     return 0;
 }
