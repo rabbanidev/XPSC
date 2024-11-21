@@ -33,3 +33,4 @@
   - [Day-2](https://github.com/rabbanidev/XPSC/tree/main/week-4/day-2)
   - [Day-3](https://github.com/rabbanidev/XPSC/tree/main/week-4/day-3)
   - [Day-4](https://github.com/rabbanidev/XPSC/tree/main/week-4/day-4)
+  - [Day-5](https://github.com/rabbanidev/XPSC/tree/main/week-4/day-5)
