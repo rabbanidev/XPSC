@@ -18,26 +18,25 @@ int main()
 
         if (n % 2 == 1)
         {
-            cout << "NO" << endl;
+            cout << "NO" << el;
         }
         else
         {
-            cout << "YES" << endl;
+            cout << "YES" << el;
 
-            string ans = "";
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n / 2; i++)
             {
                 if (i % 2 == 0)
                 {
-                    ans += 'A';
+                    cout << "BB";
                 }
                 else
                 {
-                    ans += 'B';
+                    cout << "AA";
                 }
             }
 
-            cout << ans << endl;
+            cout << el;
         }
     }
 
